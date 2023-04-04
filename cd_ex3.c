@@ -50,7 +50,7 @@ printf("Exponential");
 else if(strcmp(s,"*")==0)
 printf("Multiplication");
 else if(strcmp(s,"//")==0)
-printf("Interger Division");
+printf("Integer Division");
 else if(strcmp(s,"/")==0)
 printf("Division");
 else if(strcmp(s,"%")==0)
